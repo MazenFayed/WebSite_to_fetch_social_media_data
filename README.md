@@ -79,4 +79,6 @@ This project integrates **Facebook, Instagram, and Twitter APIs** to fetch socia
 ✅ Secure API authentication for seamless integration  
 
 
->>>>>>> origin/main
+https://github.com/user-attachments/assets/48d33714-c5c9-404c-a124-f820813b5866
+
+
